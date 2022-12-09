@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshakhot&label=Profile%20views&color=0e75b6&style=flat" alt="akankshakhot" /> </p>
 
-- 💬 Ask me about **html,css,python**
+- 💬 Ask me about **web development**
 
 - 📫 How to reach me **khotakanksha09@gmail.com**
 
