@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />
+<a href="https://linkedin.com/in/Akanksha khot ><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
+<a href="https://instagram.com/akankshakhot_ ><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />
+<a href="https://gmail.com/in/khotakanksha09@gmail.com ><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />
 
 
 </p>
